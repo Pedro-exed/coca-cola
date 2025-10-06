@@ -11,5 +11,5 @@ O site foi desenvolvido utilizando boas práticas, como por exemplo tags semânt
 * Media Queries
 
 ## Autor
-[Pedro Henrique] https://www.linkedin.com/in/pedro-henrique-a9aa74336/
+[Pedro Henrique](<https://www.linkedin.com/in/pedro-henrique-a9aa74336/>)
 
